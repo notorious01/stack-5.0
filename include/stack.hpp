@@ -165,4 +165,3 @@ void stack<T>::push(T const & value)
 }
 
 #endif 
-
